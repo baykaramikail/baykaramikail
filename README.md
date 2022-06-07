@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ios development
-- 🌱 I’m currently learning swift programming language in detail
+- 🌱 I’m currently developing my swift programming language skills
 - 💬 Ask me about anything 
-- 📫 How to reach me: mikailbaykara14@gmail.com
+- 📫 How to reach me: mikailbaykaraa@gmail.com
 
